@@ -10,4 +10,6 @@ _Bonus_
     * Use the `twitter` package inside the response to also return a random tweet
 
     https://nodejs.org/api/http.html#http_class_http_incomingmessage
-    
+
+///replacement bonus
+give good phrase when accessing http://localhost:7500/good and bad phrase when accessing http://localhost:7500/bad
